@@ -10,7 +10,7 @@ For an in-depth look at the API Framework, check us out at [gosf.io](http://gosf
 ## Get It
 
 ```sh
-go get -u "github.com/ambelovsky/gosf"
+go get -u "github.com/liveware/gosf"
 ```
 
 ## Features
